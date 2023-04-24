@@ -1,1 +1,1 @@
-# Stepik_DLS_basic
+# Stepik Deep Learning School basic
